@@ -56,7 +56,7 @@ Where:
 
 ## 📚 References
 
-All literature references are cited in the final [report](./Mini_project-final-report.pdf), including studies from:
+All literature references are cited in the final [report](./Mini_project-final_report.pdf), including studies from:
 - Austria, Brazil, China, India, Ethiopia, Malawi, Tanzania, Ghana
 - Peer-reviewed journals like *Ecological Economics*, *Science of the Total Environment*, *Sustainability*, and *PLOS ONE*
 
